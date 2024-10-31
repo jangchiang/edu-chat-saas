@@ -30,4 +30,9 @@ body {
 body {
   color: rgb(var(--foreground-rgb));
   background: #f5f7fa;
+  font-family: 'Inter', sans-serif;
+}
+
+code {
+  font-family: 'Roboto Mono', monospace;
 }
