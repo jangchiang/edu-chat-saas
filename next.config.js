@@ -12,5 +12,4 @@ const nextConfig = {
   // Other Next.js config options...
 };
 
-// Use 'export default' since the file has .mjs extension
-export default nextConfig;
+module.exports = nextConfig;

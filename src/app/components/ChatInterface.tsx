@@ -93,7 +93,10 @@ export const ChatInterface = () => {
         <h1 className="text-3xl font-bold text-center text-gray-900 mb-2">
           Educational AI Assistant
         </h1>
-        <h2 className="text-xl font-bold text-center text-gray-500 mb-2">V1.1.6</h2>
+        <h2 className="text-3xl font-bold text-center text-gray-900 mb-2">
+          Test mode
+        </h2>
+        <h2 className="text-xl font-bold text-center text-gray-500 mb-2">V1.1.7</h2>
         <p className="text-center text-gray-600">
           Ask any education-related question and get helpful answers
         </p>
