@@ -24,7 +24,16 @@ type Topic = {
     {
         category: 'Question',
         keywords: ['where', 'why', 'how', 'who', 'whom', 'whose', 'when', 'which', 'what']
+    },
+    {
+      category: 'request',
+      keywords: ['may', 'can', 'have', 'get', 'please']
+    },
+    {
+      category: 'greating',
+      keywords: ['hi', 'hello', 'thank']
     }
+
   ]
   
   export function isEducationalQuery(query: string): { 
